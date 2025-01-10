@@ -8,8 +8,10 @@
 - 🎨 Find me in the [Figma Community](https://www.figma.com/@izziink) for random stuff
 - ⚡ Fun fact: I run, write, illustrate and cycle.
 
+### Launched Projects
+- 🤖 A [design system for AI](https://golem-ai.netlify.app/) (embedded design patterns).
+
 ### Parked Projects
-- 🔭 I'm currently working on a [design system for AI](https://golem-ai.netlify.app/) (embedded design patterns).
 - 🔭 Collaboaration on [Career Development Framework for Design Technologists](https://github.com/chiangs/design-technologist-roadmap) 
 
 
